@@ -1,0 +1,59 @@
+body{
+    background-color: #f5f2f0;
+}
+
+.margin{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.header{
+    background-color: white;
+    text-align:center;
+    position: sticky;
+    top: 0px;
+}
+
+.center{
+    text-align: center;
+}
+
+
+
+.round-border{
+    border: 2px outset white;
+    border-radius: 10px;
+}
+
+
+input{
+    border-radius: 10px;
+    width: 300px;
+}
+
+button{
+    border-radius: 10PX;
+}
+
+.div-link{
+    color: #f5f2f0;
+}
+
+
+.footer{
+background-color: #2e3234;
+}
+
+.admission{
+  background-color: #cddae7;
+  border: 5px outset rgb(0, 0, 0);
+  border-radius: 15px;
+}
+
+.green-bgcolor{
+  background-color: #55aaff;
+}
+
+.white{
+    color: white;
+}
